@@ -2,7 +2,7 @@
 Heterogeneity-aware Feature Fusion with Dynamic Mixture-of-Experts for Collaborative Perception
 
 ## Framework
-(framework.png)
+![框架图](framework.png)
 
 ## Abstract
 Collaborative perception aims to extend sensing coverage and improve perception accuracy by sharing information among multiple agents. 
