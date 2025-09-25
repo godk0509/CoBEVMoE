@@ -11,5 +11,4 @@ However, due to differences in viewpoints and spatial positions, agents often ac
 ## Demo
 ![Demo](demo_open.gif)
 
-## Visualization
 [点此下载高清 Demo (MP4)](demo_open.mp4)
